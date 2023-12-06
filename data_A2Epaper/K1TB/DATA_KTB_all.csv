@@ -1,0 +1,208 @@
+sample,lati,longi,elevation,age,error,sys,ref
+HDSP-182,49.83,12.12,-172,69.6,3.1,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-183,49.83,12.12,-203,66.1,3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-184,49.83,12.12,-316,66.3,3.6,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-185,49.83,12.12,-435,67.8,2.8,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-194,49.83,12.12,-608,59.5,2.6,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-195,49.83,12.12,-719,62.8,3.6,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-196,49.83,12.12,-811,63.6,3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-197,49.83,12.12,-920,62.7,2.5,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-186,49.83,12.12,-1182,63.1,3.3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-187,49.83,12.12,-1304,65.9,3.3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-198,49.83,12.12,-1320,58.7,2.5,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-188,49.83,12.12,-1398,68.4,3.2,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-189,49.83,12.12,-1509,67.7,4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-190,49.83,12.12,-1533,57.5,3.7,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-191,49.83,12.12,-1605,59.7,3.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-192,49.83,12.12,-1705,65,3.3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-193,49.83,12.12,-1802,56.6,4.1,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-199,49.83,12.12,-1816,57.3,2.8,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-200,49.83,12.12,-1900,57.9,2.8,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-203,49.83,12.12,-2145,50.9,2.3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-205,49.83,12.12,-2352,50.1,2.5,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-206,49.83,12.12,-2418,49,2.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-207,49.83,12.12,-2501,43.9,2.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-208,49.83,12.12,-2507,40.6,3.7,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-209,49.83,12.12,-2572,45.7,3.8,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-210,49.83,12.12,-2626,42.4,2.6,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-211,49.83,12.12,-2689,39.1,2.9,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-212,49.83,12.12,-2788,42.6,2.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-213,49.83,12.12,-2915,35.4,2.1,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-215,49.83,12.12,-3060,35.8,1.9,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-216,49.83,12.12,-3128,33,1.9,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-217,49.83,12.12,-3193,24.4,1.6,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-218,49.83,12.12,-3256,27.1,1.5,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-219,49.83,12.12,-3358,23.2,1.3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-220,49.83,12.12,-3429,19.9,1.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-221,49.83,12.12,-3502,20.1,1.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-222,49.83,12.12,-3568,14.3,0.8,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-223,49.83,12.12,-3608,17.3,1.2,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-224,49.83,12.12,-3673,13.9,1.7,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-225,49.83,12.12,-3784,9.4,0.9,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-227,49.83,12.12,-3887,6.2,0.5,AFT,"D.A.Coyle1997, Geol Rundsch"
+,49.83,12.12,-5369,387.817,2,Har,warnock_zeitler_1998
+,49.83,12.12,-5079,385.378,2,Har,warnock_zeitler_1998
+,49.83,12.12,-5014,367.766,2,Har,warnock_zeitler_1998
+,49.83,12.12,-4461,384.296,2,Har,warnock_zeitler_1998
+,49.83,12.12,-4316,385.217,2,Har,warnock_zeitler_1998
+,49.83,12.12,-3606,379.359,2,Har,warnock_zeitler_1998
+,49.83,12.12,-1554,363.23,1,Har,warnock_zeitler_1998
+,49.83,12.12,-1448,379.379,1,Har,warnock_zeitler_1998
+,49.83,12.12,-1369,376.033,1,Har,warnock_zeitler_1998
+,49.83,12.12,-1290,372.211,2,Har,warnock_zeitler_1998
+,49.83,12.12,-8728,282.463,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-8688,289.114,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-8477,289.545,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-8503,296.209,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-8319,296.646,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-8319,304.731,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-8305,322.326,2,Bar,warnock_zeitler_1998
+,49.83,12.12,-8304,351.815,4,Bar,warnock_zeitler_1998
+,49.83,12.12,-8121,314.202,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-8121,322.287,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-8121,326.092,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-8134,331.327,2.5,Bar,warnock_zeitler_1998
+,49.83,12.12,-6029,304.723,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-5609,296.073,4,Bar,warnock_zeitler_1998
+,49.83,12.12,-4437,313.423,2,Bar,warnock_zeitler_1998
+,49.83,12.12,-4293,296.746,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-3621,311.348,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-3476,314.647,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-3476,319.879,4,Bar,warnock_zeitler_1998
+,49.83,12.12,-3279,305.568,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-2845,322.599,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-2489,326.804,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-2267,297.744,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-2306,310.119,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-2279,317.723,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-2253,321.523,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-1950,322.41,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-1699,347.565,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-911,310.775,8,Bar,warnock_zeitler_1998
+,49.83,12.12,-949,335.991,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-660,338.784,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-633,352.096,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-501,359.678,5,Bar,warnock_zeitler_1998
+,49.83,12.12,-488,378.224,1,Bar,warnock_zeitler_1998
+,49.83,12.12,-8343,363.238,5,Mar,warnock_zeitler_1998
+,49.83,12.12,-8317,361.806,2,Mar,warnock_zeitler_1998
+,49.83,12.12,-6014,366.075,6,Mar,warnock_zeitler_1998
+,49.83,12.12,-5661,307.023,2.5,Mar,warnock_zeitler_1998
+,49.83,12.12,-5567,348.858,4,Mar,warnock_zeitler_1998
+,49.83,12.12,-3462,366.011,3,Mar,warnock_zeitler_1998
+,49.83,12.12,-3264,375.006,6,Mar,warnock_zeitler_1998
+,49.83,12.12,-2804,362.543,7,Mar,warnock_zeitler_1998
+,49.83,12.12,-2212,366.223,3,Mar,warnock_zeitler_1998
+,49.83,12.12,-1896,359.022,5,Mar,warnock_zeitler_1998
+,49.83,12.12,-922,365.95,2.5,Mar,warnock_zeitler_1998
+,49.83,12.12,-844,354.518,5,Mar,warnock_zeitler_1998
+,49.83,12.12,-501,373.947,5,Mar,warnock_zeitler_1998
+HDSP-182,49.83,12.12,-172,69.6,3.1,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-183,49.83,12.12,-203,66.1,3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-184,49.83,12.12,-316,66.3,3.6,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-185,49.83,12.12,-435,67.8,2.8,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-194,49.83,12.12,-608,59.5,2.6,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-195,49.83,12.12,-719,62.8,3.6,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-196,49.83,12.12,-811,63.6,3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-197,49.83,12.12,-920,62.7,2.5,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-186,49.83,12.12,-1182,63.1,3.3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-187,49.83,12.12,-1304,65.9,3.3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-198,49.83,12.12,-1320,58.7,2.5,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-188,49.83,12.12,-1398,68.4,3.2,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-189,49.83,12.12,-1509,67.7,4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-190,49.83,12.12,-1533,57.5,3.7,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-191,49.83,12.12,-1605,59.7,3.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-192,49.83,12.12,-1705,65,3.3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-193,49.83,12.12,-1802,56.6,4.1,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-199,49.83,12.12,-1816,57.3,2.8,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-200,49.83,12.12,-1900,57.9,2.8,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-203,49.83,12.12,-2145,50.9,2.3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-205,49.83,12.12,-2352,50.1,2.5,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-206,49.83,12.12,-2418,49,2.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-207,49.83,12.12,-2501,43.9,2.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-208,49.83,12.12,-2507,40.6,3.7,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-209,49.83,12.12,-2572,45.7,3.8,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-210,49.83,12.12,-2626,42.4,2.6,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-211,49.83,12.12,-2689,39.1,2.9,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-212,49.83,12.12,-2788,42.6,2.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-213,49.83,12.12,-2915,35.4,2.1,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-215,49.83,12.12,-3060,35.8,1.9,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-216,49.83,12.12,-3128,33,1.9,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-217,49.83,12.12,-3193,24.4,1.6,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-218,49.83,12.12,-3256,27.1,1.5,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-219,49.83,12.12,-3358,23.2,1.3,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-220,49.83,12.12,-3429,19.9,1.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-221,49.83,12.12,-3502,20.1,1.4,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-222,49.83,12.12,-3568,14.3,0.8,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-223,49.83,12.12,-3608,17.3,1.2,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-224,49.83,12.12,-3673,13.9,1.7,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-225,49.83,12.12,-3784,9.4,0.9,AFT,"D.A.Coyle1997, Geol Rundsch"
+HDSP-227,49.83,12.12,-3887,6.2,0.5,AFT,"D.A.Coyle1997, Geol Rundsch"
+KTB-172m,49.83,12.12,-172,60.5,3.9,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-316m,49.83,12.12,-316,50.3,3.3,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-435m,49.83,12.12,-435,53.5,3.5,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-920m,49.83,12.12,-920,61.6,4,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-190lm,49.83,12.12,-190,34.1,2.2,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-2353m,49.83,12.12,-2353,21.6,1.4,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-2789m,49.83,12.12,-2789,30.1,1.9,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-2954m,49.83,12.12,-2954,9.6,0 .5,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-3129m,49.83,12.12,-3129,20,1.3,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-3502m,49.83,12.12,-3502,8.5,0.5,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-3832m,49.83,12.12,-3832,6.1,0 .4,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+KTB-3887m,49.83,12.12,-3887,3.2,0.2,AHe,"Warnock_zeitler_1997, Geochimica et Cosmochimica Acta"
+ZKTBQ,49.83,12.12,0,92.3,7.4,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 52,49.83,12.12,-52,95.7,7.7,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 125,49.83,12.12,-125,93.2,7.5,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 525,49.83,12.12,-525,77.7,6.2,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 1230,49.83,12.12,-1230,111.7,8.9,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 1358,49.83,12.12,-1358,92.6,7.4,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 1516,49.83,12.12,-1516,94.9,7.6,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 1575,49.83,12.12,-1575,71.2,5.7,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 1740,49.83,12.12,-1740,83.5,6.7,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 2020,49.83,12.12,-2020,82.6,6.6,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 2507,49.83,12.12,-2507,87.3,7,ZHe,"WolfeStockli2010, EPSL"
+Z747 A1,49.83,12.12,-3059,71.7,5.7,ZHe,"WolfeStockli2010, EPSL"
+Z798A1g2,49.83,12.12,-3269,72,5.8,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 3575,49.83,12.12,-3575,76.1,6.1,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 4050,49.83,12.12,-4050,81.4,1.4,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 4088,49.83,12.12,-4088,81.7,6.5,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 4124,49.83,12.12,-4124,76.7,6.1,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 4620,49.83,12.12,-4620,82.2,6.6,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 4668,49.83,12.12,-4668,80.5,6.4,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 5008,49.83,12.12,-5008,57.5,4.6,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 5608,49.83,12.12,-5608,40.7,3.3,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 5450,49.83,12.12,-5450,61.2,4.9,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 5720,49.83,12.12,-5720,29.3,2.3,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 5975,49.83,12.12,-5975,29.6,0.1,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 6255,49.83,12.12,-6255,13.3,1.1,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 6500,49.83,12.12,-6500,4.8,0.4,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 6562,49.83,12.12,-6562,22.8,1.4,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 6750,49.83,12.12,-6750,15.3,1.2,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 7152,49.83,12.12,-7152,10.2,0.8,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 7154,49.83,12.12,-7154,8.4,0.7,ZHe,"WolfeStockli2010, EPSL"
+ZKTB  7244,49.83,12.12,-7244,0.9,0.1,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 7553,49.83,12.12,-7553,17.7,1.4,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 7790,49.83,12.12,-7790,1.4,0.1,ZHe,"WolfeStockli2010, EPSL"
+ZH034,49.83,12.12,-8080,1,0.1,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 8257,49.83,12.12,-8257,0.8,0.1,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 8380,49.83,12.12,-8380,4.2,0.3,ZHe,"WolfeStockli2010, EPSL"
+ZKTB 9000,49.83,12.12,-9000,1.2,0.1,ZHe,"WolfeStockli2010, EPSL"
+ZKTB1516-DE,49.83,12.12,-1516,94.9,18,ZHe,"WolfeStockli2010, EPSL"
+ZKTB4050-DE,49.83,12.12,-4050,81.4,2.2,ZHe,"WolfeStockli2010, EPSL"
+HC510b,49.83,12.12,-510,243,16,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HDSP234,49.83,12.12,-1391,242,19,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HDSP237,49.83,12.12,-2470,211,12,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HC2650,49.83,12.12,-2650,243,12,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HDSP238,49.83,12.12,-2700,230,13,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HDSP241,49.83,12.12,-3900,231,19,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HF4350,49.83,12.12,-4350,177,11,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HF4500,49.83,12.12,-4500,213,15,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+H010-B9,49.83,12.12,-4820,129,15,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HC5573,49.83,12.12,-5573,108,8.4,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+H027-D2,49.83,12.12,-6357,97.5,6.9,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+H029,49.83,12.12,-6540,112,16,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HC7368,49.83,12.12,-7368,212,20,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HC7454,49.83,12.12,-7454,162,11,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HC7688b,49.83,12.12,-7688,154,9.1,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HC8250,49.83,12.12,-8250,166,8.4,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
+HC8700,49.83,12.12,-8700,111,16,SpheneFT,"Wemmer, KTB Report94-2,  1994,  pp. 63Ð70"
